@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Aarav World</h1>
-  <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3>
-  <p>📍 New Delhi, India</p>
+  <h3>We believe the digital world</h3>
+  <p>India</p>
 </div>
 
 <p align="center">
