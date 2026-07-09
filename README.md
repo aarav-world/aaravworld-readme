@@ -1,1 +1,82 @@
-# aaravworld-readme
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/159413669?s=400" alt="Aarav World - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;">
+  <h1>Aarav World</h1>
+  <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3>
+  <p>📍 New Delhi, India</p>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarav-world&label=Profile%20views&color=00BFFF&style=flat" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aarav-world&theme=default" alt="GitHub Profile Summary"/>
+</div>
+
+### 💡 About Me
+"My journey started with a simple 'Hello World' — now transforming that spark into real-world impact through consistent learning and hands-on practice."
+
+I'm a passionate BCA student at IGNOU building strong foundations in Python, C, C++, Java along with Data Structures, Algorithms, and MySQL. Currently exploring Data Science, Machine Learning, and AI to evolve towards a career in tech.
+
+I strongly believe in self-discipline, curiosity, and practice-driven growth — not just learning theory but applying it to solve real problems.
+
+### 🎯 What I'm Up To
+* 🔭 Building Data Science projects and strengthening my coding fundamentals
+* 🌱 Learning Machine Learning, Power BI & Analytics
+* 🤝 Open to collaborate on projects and learn together
+* 💬 Ask me about: Python, SQL, Data Science, or my learning journey
+* ⚡ Always open to connect, collaborate, and grow together
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
+</p>
+
+**Data Science & Machine Learning**
+<p align="left">
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> </a>
+</p>
+
+**Database & Tools**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/> </a>
+</p>
+
+**Business Intelligence**
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/> </a>
+</p>
+
+### 💻 Learning Path
+Current Focus: Building foundations in programming, data structures & algorithms, and exploring the world of Data Science and Machine Learning through hands-on practice and real-world projects.
+
+### 📊 GitHub Performance Insights
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarav-world&show_icons=true&locale=en&theme=default&hide_border=false" alt="Aarav's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aarav-world&theme=default&hide_border=false" alt="GitHub Streak Stats" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarav-world&layout=compact&theme=default&hide_border=false&langs_count=6" alt="Top Languages" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+  <b>📩 Email:</b> <a href="mailto:aaravworld@gmail.com">aaravworld@gmail.com</a>
+</div>
+<div align="center">
+  <i>⭐ From <a href="https://github.com/aarav-world">Aarav World</a> - Let's build something amazing together!</i>
+</div>
