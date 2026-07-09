@@ -1,5 +1,4 @@
 <div align="center">
-  " alt="Aarav World - Avatar" width="150" style="border-radius: 50%; border: 3px solid #00BFFF;">
   <h1>Aarav World</h1>
   <h3>Aspiring Data Scientist | BCA Student @IGNOU | Python & AI Enthusiast</h3>
   <p>📍 New Delhi, India</p>
